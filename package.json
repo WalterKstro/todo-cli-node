@@ -1,0 +1,17 @@
+{
+  "name": "cli-tasks",
+  "version": "1.0.0",
+  "description": "Coman Line Interface of managment of tasks",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Walter Castro",
+  "license": "MIT",
+  "dependencies": {
+    "cli-table": "^0.3.11",
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.4",
+    "yargs": "^17.5.1"
+  }
+}
